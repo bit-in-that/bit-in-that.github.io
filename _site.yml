@@ -5,8 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   logo:
-    image: images/logo.png
-    href: https://github.com/bit-in-that/bit-in-that.github.io
+    image: img/logo.png
+    href: index.html
   right:
     - text: "Home"
       href: index.html

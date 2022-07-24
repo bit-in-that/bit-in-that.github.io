@@ -16,3 +16,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+
+![*The* 'bit in that' project.](img/logo_animated.gif)
