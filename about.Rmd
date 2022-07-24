@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+  Theres a bit in that I reckon.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

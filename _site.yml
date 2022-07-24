@@ -1,0 +1,15 @@
+name: "bit-in-that.github.io"
+title: "bit in that"
+description: |
+  bit in that
+output_dir: "docs"
+navbar:
+  logo:
+    image: images/logo.png
+    href: https://github.com/bit-in-that/bit-in-that.github.io
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
