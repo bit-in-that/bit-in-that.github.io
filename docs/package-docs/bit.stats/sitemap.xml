@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/404.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/404.html</loc>
   </url>
   <url>
-    <loc>/authors.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/authors.html</loc>
   </url>
   <url>
-    <loc>/index.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/index.html</loc>
   </url>
   <url>
-    <loc>/LICENSE-text.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/LICENSE-text.html</loc>
   </url>
   <url>
-    <loc>/reference/bit.stats-package.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/bit.stats-package.html</loc>
   </url>
   <url>
-    <loc>/reference/index.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/index.html</loc>
   </url>
   <url>
-    <loc>/reference/s3-setvalues.html</loc>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/s3-setvalues.html</loc>
   </url>
 </urlset>
