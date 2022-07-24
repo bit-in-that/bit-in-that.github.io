@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Couple of fellas trying their hand at footy analytics. There's a bit in that I reckon.
+  Just a couple of fellas trying their hand at footy analytics. There's a bit in that I reckon.
 ---
 
 ```{r setup, include=FALSE}

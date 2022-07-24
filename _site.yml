@@ -1,5 +1,6 @@
 name: "bit-in-that.github.io"
 title: "bit in that"
+theme: theme.css
 description: |
   bit in that
 output_dir: "docs"
