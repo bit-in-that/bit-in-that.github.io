@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  resources: "package-docs/**" # all package documentation
+  
+website:
+  title: "bit in that"
+  favicon: img/logo_large.png
+  navbar:
+    logo: "img/logo.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - text: "Packages"
+        menu:
+        - text: "bit.stats"
+          href: "package-docs/bit.stats/index.html"
+          
+    right:
+      - href: https://github.com/bit-in-that
+        icon: github
+        
+
+  page-footer:
+    left: "© 2022, bit in that organisation.\n All rights reserved."
+    right:
+      - href: https://github.com/bit-in-that
+        icon: github
+    
+  margin-header: |
+    ![](img/logo_large.png)
+
+format:
+  html:
+    theme:
+      dark: [theme.scss, dark-theme.scss]
+      light: [theme.scss]
+    css: styles.css
+    toc: true
+    link-external-newwindow: true
+editor: visual

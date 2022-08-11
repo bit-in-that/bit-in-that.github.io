@@ -1,0 +1,23 @@
+/*-- scss:defaults --*/
+// all the variables are here: https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
+// quarto docs: https://quarto.org/docs/output-formats/html-themes.html#sass-variables
+// google font imports
+@import url('https://fonts.googleapis.com/css2?family=Quicksand');
+//@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata');
+@import url('https://fonts.googleapis.com/css?family=Gentium+Plus&effect=fire-animation');
+
+// Font Variables
+$gentium-plus: 'Gentium Plus', serif;
+$quicksand: 'Quicksand', sans-serif;
+
+// Base document colors
+// $body-bg: #181818;
+// $body-color: white;
+// $link-color: #75AADB;
+$primary: #ec1c24 !default;
+$headings-color: $primary !default;
+//custom font families
+$font-family-sans-serif: $quicksand !default;
+$headings-font-family:  $gentium-plus !default;
+
