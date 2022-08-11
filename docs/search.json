@@ -1,21 +1,9 @@
-{
-  "articles": [
-    {
-      "path": "about.html",
-      "title": "About this site",
-      "description": "Just a couple of fellas trying their hand at footy analytics. There's a bit in that I reckon.",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-07-31T19:46:21+10:00"
-    },
-    {
-      "path": "index.html",
-      "title": "bit in that",
-      "description": "Watch this space, big things are coming...\n",
-      "author": [],
-      "contents": "\r\n\r\nLogo\r\n\r\nThe ‘bit in that’\r\nproject.\r\n\r\n\r\n",
-      "last_modified": "2022-07-31T19:46:23+10:00"
-    }
-  ],
-  "collections": []
-}
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quarto",
+    "section": "",
+    "text": "The ‘bit in that’ project."
+  }
+]

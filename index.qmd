@@ -1,0 +1,13 @@
+---
+title: "Quarto"
+subtitle: |
+  Watch this space, big things are coming...
+---
+
+<h1 class="font-effect-fire-animation">
+
+Logo
+
+</h1>
+
+![*The* 'bit in that' project.](img/logo_animated.gif){width="50%"}
