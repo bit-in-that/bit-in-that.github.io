@@ -19,10 +19,28 @@
     <loc>https://github.com/bit-in-that/bit.stats/reference/bit.stats-package.html</loc>
   </url>
   <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/c.scalarvalues.html</loc>
+  </url>
+  <url>
     <loc>https://github.com/bit-in-that/bit.stats/reference/cardinality.html</loc>
   </url>
   <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/derivative-utilities.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/Distribution.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/Expression.html</loc>
+  </url>
+  <url>
     <loc>https://github.com/bit-in-that/bit.stats/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/maths-constructs.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/s3-scalarvalues.html</loc>
   </url>
   <url>
     <loc>https://github.com/bit-in-that/bit.stats/reference/s3-setvalues-print.html</loc>
@@ -35,5 +53,8 @@
   </url>
   <url>
     <loc>https://github.com/bit-in-that/bit.stats/reference/Support.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/bit-in-that/bit.stats/reference/validate_scalarvalues.html</loc>
   </url>
 </urlset>

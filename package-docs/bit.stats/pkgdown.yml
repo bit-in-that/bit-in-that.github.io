@@ -2,7 +2,7 @@ pandoc: '2.18'
 pkgdown: 2.0.3
 pkgdown_sha: ~
 articles: {}
-last_built: 2022-07-31T10:49Z
+last_built: 2022-08-21T03:02Z
 urls:
   reference: https://github.com/bit-in-that/bit.stats/reference
   article: https://github.com/bit-in-that/bit.stats/articles
